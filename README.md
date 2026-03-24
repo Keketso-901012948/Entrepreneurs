@@ -1,2 +1,1 @@
-# Entrepreneurs
-A website for a startup bussiness  
+# We.Design website 
